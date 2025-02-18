@@ -11,7 +11,8 @@
 - ⚡ **Fun Fact:** I love optimizing workflows and making things more efficient!  
 
 ### 📫 Connect With Me  
-💬 Feel free to reach out if you want to chat about engineering, coding, or 3D printing!  
+💬 Feel free to reach out if you want to chat about engineering, coding, or 3D printing!
+Email: zaplol@pm.me
 
 ---
 

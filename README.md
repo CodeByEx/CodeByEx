@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! 👋 I'm Edin  
 
-<!--
-**CodeByEx/CodeByEx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Engineer in Training | 3D Printing Enthusiast | Developer**  
 
-Here are some ideas to get you started:
+### 🛠️ About Me  
+- 🌍 **Languages:** English, Bosnian  
+- 💻 **Coding Languages:** Python, JavaScript, TypeScript, HTML, CSS  
+- 🎨 **Proficiencies:** Photoshop, Premiere Pro, Blender, Fusion 360, AutoCAD, OnShape  
+- 🏗️ **Hobbies:** 3D modeling & printing | Building things | Learning new technologies  
+- 🖨️ **3D Printers:** Elegoo Neptune 3 Pro, Bambu Lab A1  
+- ⚡ **Fun Fact:** I love optimizing workflows and making things more efficient!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me  
+💬 Feel free to reach out if you want to chat about engineering, coding, or 3D printing!  
+
+---
+
+🔥 *"Creating the future, one layer at a time."* 🔥  
